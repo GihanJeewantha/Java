@@ -5,7 +5,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Scanner Sc = new Scanner(System.in); //create Scanner class object
+		Scanner Sc = new Scanner(System.in); //create Scanner  object
 		
 		System.out.println("What is you'r Name : ");
 		String name = Sc.nextLine();  // ussing that Scanner
