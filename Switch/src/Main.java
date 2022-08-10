@@ -31,6 +31,8 @@ public class Main {
 		
 		case "Saturday": System.out.println("It is Sataurday !");
 		break;
+		
+		default: System.out.println("This is not a Date!");
 		}
 		
 		
