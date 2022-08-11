@@ -7,6 +7,11 @@ public class Main {
 			System.out.println("This is I : "+ i);
 			
 		}
+		
+		
+		for(int a=10; a==1; a--) {
+			System.out.println("This is A: "+ a);
+		}
 
 	}
 
