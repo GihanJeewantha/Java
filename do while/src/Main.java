@@ -12,7 +12,7 @@ public class Main {
 			name = Sc.nextLine();
 		}while(name.isBlank());
 		
-		System.out.println("Hello"+name);
+		System.out.println("Hello "+name);
 		
 	}
 
