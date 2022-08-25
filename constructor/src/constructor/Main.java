@@ -8,7 +8,11 @@ public class Main {
 		Human human = new Human("Jeewantha",23);
 		System.out.println(human.name);
 		System.out.println(human.age);
-
+		
+			
 	}
 
+	void eat() {
+		System.out.println(this.name+" is eating");
+	}
 }

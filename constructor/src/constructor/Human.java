@@ -10,5 +10,10 @@ public class Human {
 		this.age=age;
 		
 	}
+	
+	void eat() {
+		System.out.println("eating");
+	}
+	
 
 }
